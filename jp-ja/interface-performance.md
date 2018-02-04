@@ -6,6 +6,7 @@
 | USB 2.0 | 480Mbps | 60MB/s |
 | USB 3.0 | 5Gbps | 625MB/s |
 | USB 3.1 Gen2 | 10Gbps | 1,250MB/s |
+| USB 3.2 Gen2x2 | 20Gbps | 2,500MB/s |
 | IEEE1394a / FireWire 400 | 400Mbps | 50MB/s |
 | IEEE1394b / FireWire 800 | 800Mbps | 100MB/s |
 | Thunderbolt | 10Gbps | 1,250MB/s |
@@ -29,9 +30,10 @@
 | APG 2X | 4.2Gbps | 533MB/s |
 | AGP 4X | 8.5Gbps | 1,066MB/s |
 | AGP 8X | 17Gbps | 2,133MB/s |
-| PCIe 1.1×16 | 4Gbps | 500MB/s |
-| PCIe 2.0×16 | 8Gbps | 1,000MB/s |
-| PCIe 3.0×16 | 16Gbps | 2,000MB/s |
+| PCIe 1.1×32 | 16Gbps | 2,000MB/s |
+| PCIe 2.0×32 | 32Gbps | 4,000MB/s |
+| PCIe 3.0×32 | 63.02Gbps | 8,000MB/s |
+| PCIe 4.0×64 | 252.1Gbps | 31.5GB/s |
 | SDRAM PC133 | 8Gbps | 1,000MB/s |
 | DDR SDRAM PC2700 (DDR333) | 21.6Gbps | 2.7GB/s |
 | DDR SDRAM PC3200 (DDR400) | 25.6Gbps | 3.2GB/s |
@@ -65,10 +67,12 @@
 | 25GBASE-T | 25Gbps | 3,125MB/s |
 | 40GBASE-T | 40Gbps | 5,000MB/s |
 | 100GBASE-R | 100Gbps | 12,500MB/s |
+| IEEE802.11 | 2Mbps | 0.25MB/s |
 | IEEE802.11b | 11Mbps | 1.375MB/s |
-| IEEE802.11g/a | 54Mbps | 6.75MB/s |
+| IEEE802.11g/a/j | 54Mbps | 6.75MB/s |
 | IEEE802.11n (Draft) | 100Mbps | 12.5MB/s |
 | IEEE802.11n | 600Mbps | 75MB/s |
+| IEEE802.11ad | 6.8Gbps | 850MB/s |
 | IEEE802.11ac | 6.9Gbps | 862.5MB/s |
 | PLC/IEEE1901 | 240Mbps | 30MB/s |
 | Analog Modem | 56kbps | 7KB/s |
@@ -79,6 +83,8 @@
 | ADSL | 50Mbps | 6.25MB/s |
 | 光回線 | 100Mbps | 12.5MB/s |
 | 光ギガ回線 | 1Gbps | 133MB/s |
+| 光ギガ回線2Gbps | 2Gbps | 266MB/s |
+| 光ギガ回線10Gbps | 10Gbps | 1,330MB/s |
 | SD Speed Class 2 | 16Mbps | 2MB/s |
 | SD Speed Class 4 | 32Mbps | 4MB/s |
 | SD Speed Class 6 | 48Mbps | 6MB/s |
@@ -88,7 +94,8 @@
 | DVIデュアルリンク | 3.7Gbps | 462.5MB/s |
 | HDMI 1.2 | 4.95Gbps | 618.75MB/s |
 | HDMI 1.4 | 10.2Gbps | 1,275MB/s |
-| HDMI 2.0 | 18Gbps | 3,000MB/s |
+| HDMI 2.0 | 18Gbps | 2,250MB/s |
+| HDMI 2.1 | 48Gbps | 6,000MB/s |
 | Display Port 1.0 | 8.64Gbps | 1,080MB/s |
 | Display Port 1.2 | 17.28Gbps | 2,160MB/s |
 | Display Port 1.4 | 32.4Gbps | 2,592MB/s |
